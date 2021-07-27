@@ -367,8 +367,8 @@
           "url": "https://github.com/haskell/haskell-language-server/releases/download/1.0.0/haskell-language-server-Linux-8.6.4.gz"
         },
         "8.6.5": {
-          "hash": "d034115897475ab090a9093e887c0ed826804bfefd34b1289598637b9ab411f2",
-          "url": "https://github.com/haskell/haskell-language-server/releases/download/1.0.0/haskell-language-server-Linux-8.6.5.gz"
+          "hash": "1qvg2pmgl96il3081ddg09ldhn4zd0bfqvvhlidkcbvf7nc54bby",
+          "url": "https://github.com/haskell/haskell-language-server/releases/download/1.2.0/haskell-language-server-Linux-8.6.5.gz"
         },
         "8.8.4": {
           "hash": "11f6aa40ba10192ee5fc0c1387804fe62b220e501ca7bb979a146b6ad7ff5d07",
